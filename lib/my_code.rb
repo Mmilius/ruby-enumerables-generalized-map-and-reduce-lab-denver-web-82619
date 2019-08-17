@@ -1,1 +1,1 @@
-map([]){|n| n*-1}
+def map(source_array)
